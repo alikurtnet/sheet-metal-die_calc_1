@@ -38,4 +38,6 @@ Herhangi bir kurulum gerektirmeden doğrudan çalıştırabilirsiniz.
 
 Uygulama içindeki menüleri kullanarak parça geometrisi ve malzeme bilgilerini girip hesaplamaları başlatabilirsiniz.
 
+Download:https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v5.3.0/Sheet_Metal_Die_Calc_1.exe
+
 
