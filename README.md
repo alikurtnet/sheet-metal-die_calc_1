@@ -40,4 +40,7 @@ Uygulama içindeki menüleri kullanarak parça geometrisi ve malzeme bilgilerini
 
 Download:https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v5.3.0/Sheet_Metal_Die_Calc_1.exe
 
+Bazı antivirüsler dosyanın imzası olmadığı için uyarı verebilir, bu hatalı bir tespittir.
+https://www.virustotal.com/gui/file/36c7d4ed2baa8d1862313cd4a9d2591f077b22cbbbeae97de6eb0e772c0d961e?nocache=1
+
 
