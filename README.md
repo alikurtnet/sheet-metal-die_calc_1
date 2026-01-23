@@ -38,9 +38,7 @@ Herhangi bir kurulum gerektirmeden doğrudan çalıştırabilirsiniz.
 
 Uygulama içindeki menüleri kullanarak parça geometrisi ve malzeme bilgilerini girip hesaplamaları başlatabilirsiniz.
 
-Download:https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v5.3.0/Sheet_Metal_Die_Calc_1.exe
+https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/untagged-f0276211bd5ab38b5594/Sheet_Metal_Die_Calc_1.exe
 
 Bazı antivirüsler dosyanın imzası olmadığı için uyarı verebilir, bu hatalı bir tespittir.
-https://www.virustotal.com/gui/file/36c7d4ed2baa8d1862313cd4a9d2591f077b22cbbbeae97de6eb0e772c0d961e?nocache=1
-
-
+https://www.virustotal.com/gui/file/1a7519a12106c20ce3c0f3acf5f09d757c08e5a50f900260b56fb9793d78bc9b?nocache=1
