@@ -1,44 +1,59 @@
-🛠 Sheet Metal Die Calculation Series (1 & 2)
-Sac Şekillendirme Kalıplarında Mühendislik Hesaplamaları ve Süreç Analizi
+<h1>🛠️ Sheet Metal & Measurement Engineering Suite v1.0.0</h1>
 
-Bu depo (repository), delme ve kesme kalıpları tasarımı için geliştirilmiş iki temel uygulamayı içermektedir. Bu araçlar, karmaşık mühendislik hesaplamalarını otomatize etmek ve kalıp süreçlerini görsel animasyonlarla analiz etmek amacıyla tasarlanmıştır.
+<p>Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar <b>Nuitka</b> ile optimize edilmiş ve kullanıcı güvenliği ön planda tutularak <b>Ali Kurt</b> adına dijital olarak imzalanmıştır.</p>
 
-📂 Uygulama İçerikleri ve Farklar
-Her iki uygulama da temel hesaplama mantığında benzer işlevlere sahip olmakla birlikte, farklı örneklemeler ve ürün senaryoları üzerine odaklanmıştır:
+<hr>
 
-Sheet_Metal_Die_Calc_1: (Eski adıyla: Delme-Kesme Kalıpları-1)
+<h2>📥 Uygulama İndirme Linkleri</h2>
+<p><i>Uygulamaları aşağıdaki bağlantılardan güvenle indirebilirsiniz:</i></p>
 
-7 farklı kalıp yapısı ve 11 teknik animasyon içerir.
+<table>
+  <tr>
+    <td><b>Program Adı</b></td>
+    <td><b>İndirme Bağlantısı</b></td>
+  </tr>
+  <tr>
+    <td>🚀 Sanal Kumpas ve Mikrometre</td>
+    <td><a href="https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe"><b>Caliper-Micrometer.exe İndir</b></a></td>
+  </tr>
+  <tr>
+    <td>🛠️ Sac Metal Kalıp Hesaplama - 1</td>
+    <td><a href="https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_1.exe"><b>Die-Calc-1.exe İndir</b></a></td>
+  </tr>
+  <tr>
+    <td>🛠️ Sac Metal Kalıp Hesaplama - 2</td>
+    <td><a href="https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_2.exe"><b>Die-Calc-2.exe İndir</b></a></td>
+  </tr>
+</table>
 
-Özellikle slot parçalar, "E" tipi parçalar için çoklu üretim teknikleri ve kare/silindirik parça analizlerine odaklanır.
+<hr>
 
-Sheet_Metal_Die_Calc_2: (Eski adıyla: Delme-Kesme Kalıpları-2)
+<h2>📖 Uygulama Detayları</h2>
 
-Birinci uygulamanın devamı niteliğindedir.
+<h3>1. Sanal Kumpas ve Mikrometre Simülasyonu</h3>
+<ul>
+  <li><b>Hassasiyet:</b> 0.1, 0.05 ve 0.02 mm milimetrik kumpas simülasyonları.</li>
+  <li><b>İnç Sistemi:</b> Parmak (inç) ölçü desteği.</li>
+  <li><b>Mikrometre:</b> 0.01 mm hassasiyetinde üç farklı model.</li>
+</ul>
 
-Farklı ürün sayıları (örneğin 4 ürün yerine 2 ürün senaryoları) ve alternatif yerleşim düzenleri üzerinden özelleşmiş örneklemeler sunar.
+<h3>2. Sac Metal Kalıp Hesaplama Araçları (1 & 2)</h3>
+<ul>
+  <li><b>Analizler:</b> Kalıp ömrü, kesme kuvveti ve zımba boşluğu hesaplamaları.</li>
+  <li><b>Verimlilik:</b> Malzeme kullanım optimizasyonu.</li>
+</ul>
 
-🚀 Ortak Teknik Özellikler
-Her iki uygulama da aşağıdaki kritik mühendislik modüllerini bünyesinde barındırır:
+<hr>
 
-Kalıp Animasyonları: Kesme, delme, adımlı (proses) ve bileşik (kombine) kalıpların çalışma prensiplerini gösteren dinamik simülasyonlar.
+<h2>🛡️ Güvenlik ve Kurulum</h2>
+<ul>
+  <li><b>Taşınabilir (Portable):</b> Kurulum gerektirmez.</li>
+  <li><b>Dijital İmza:</b> Ali Kurt adına sertifikalıdır.</li>
+</ul>
 
-Matris (Dişi Kalıp) Boyutlandırma: Sac kalınlığına ve kalıp deliği açıklığına göre üç farklı yöntemle hassas boyut belirleme.
-
-Mekanik Hesaplama Modülleri: * Kesme kuvveti ve kesme boşluğu analizleri.
-
-Zımba boyu hesabı ve flambaj (burkulma) kontrolü.
-
-Bağlama sapı yeri belirleme ve kalıp verimi optimizasyonu.
-
-🛠 Kurulum ve Kullanım
-İlgili versiyona ait .exe dosyasını "Releases" bölümünden indirin.
-
-Herhangi bir kurulum gerektirmeden doğrudan çalıştırabilirsiniz.
-
-Uygulama içindeki menüleri kullanarak parça geometrisi ve malzeme bilgilerini girip hesaplamaları başlatabilirsiniz.
-
-https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/untagged-f0276211bd5ab38b5594/Sheet_Metal_Die_Calc_1.exe
-
-Bazı antivirüsler dosyanın imzası olmadığı için uyarı verebilir, bu hatalı bir tespittir.
-https://www.virustotal.com/gui/file/1a7519a12106c20ce3c0f3acf5f09d757c08e5a50f900260b56fb9793d78bc9b?nocache=1
+<h3>🔍 VirusTotal Raporları</h3>
+<p>
+  <a href="https://www.virustotal.com/gui/file/c64644034f8314bbb59047777277609edb821b784208498d0ef325fdb57ae3e3?nocache=1">[Caliper Raporu]</a> | 
+  <a href="https://www.virustotal.com/gui/file/edfc41966ac6d5b61501a8c3e3ed428e4ce3838e4a7f7cf48d09b8422d69d4ca/detection">[Die-Calc-1 Raporu]</a> | 
+  <a href="https://www.virustotal.com/gui/file/0b9ab433705f04ebe50390f3918622128ab02a010f62fcb5dac88792add3d1bf/detection">[Die-Calc-2 Raporu]</a>
+</p>
