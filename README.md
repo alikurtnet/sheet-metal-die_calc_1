@@ -3,7 +3,52 @@
 <p>Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar <b>Nuitka</b> ile optimize edilmiş ve kullanıcı güvenliği ön planda tutularak <b>Ali Kurt</b> adına dijital olarak imzalanmıştır.</p>
 
 <hr>
+# 🛠️ Sheet Metal & Measurement Engineering Suite v1.0.0
+### [TR] Sac Metal ve Ölçüm Mühendisliği Paketi
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Kumpas_Mikrometre.png" width="600" alt="Suite Preview">
+</p>
+
+---
+
+## 📖 Hakkında / About
+
+**[TR]** Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar **Nuitka** ile optimize edilmiş ve kullanıcı güvenliği ön planda tutularak **Ali Kurt** adına dijital olarak imzalanmıştır.
+
+**[EN]** This suite brings together three essential professional tools developed for die engineering calculations and technical measurement training. All applications are optimized with **Nuitka** and digitally signed by **Ali Kurt** for user security and integrity.
+
+---
+
+## 📥 İndirme Linkleri / Download Links
+> *Uygulamaları aşağıdaki bağlantılardan güvenle indirebilirsiniz / Download the apps securely via the links below:*
+
+| Program Adı / Program Name | İndirme Bağlantısı / Download Link |
+| :--- | :--- |
+| 🚀 Sanal Kumpas ve Mikrometre | [**Caliper-Micrometer.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe) |
+| 🛠️ Sac Metal Kalıp Hesaplama - 1 | [**Sheet_Metal_Die_Calc_1.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_1.exe) |
+| 🛠️ Sac Metal Kalıp Hesaplama - 2 | [**Sheet_Metal_Die_Calc_2.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_2.exe) |
+
+---
+
+## 🔍 Özellikler / Key Features
+
+### 1. Sanal Kumpas ve Mikrometre / Virtual Caliper & Micrometer
+* **[TR]** 0.1, 0.05 ve 0.02 mm hassasiyet; Milimetre ve İnç sistemleri; 3 farklı mikrometre modeli.
+* **[EN]** 0.1, 0.05, and 0.02 mm precision; Metric and Inch systems; 3 different micrometer models.
+
+### 2. Sac Metal Kalıp Araçları / Sheet Metal Die Tools
+* **[TR]** Matris (Dişi Kalıp) analizi, kalıp ömrü, kesme kuvveti ve malzeme verimliliği hesaplamaları.
+* **[EN]** Die analysis, tool life estimation, cutting force, and material efficiency calculations.
+
+---
+
+## 🛡️ Güvenlik ve Kurulum / Security & Installation
+* **Portable:** [TR] Kurulum gerektirmez. / [EN] No installation required.
+* **Safety:** [TR] Dosyalar dijital sertifikalıdır. / [EN] Digitally signed for security.
+
+### 🔍 VirusTotal Reports
+[🔍 Caliper Report](https://www.virustotal.com/gui/file/c64644034f8314bbb59047777277609edb821b784208498d0ef325fdb57ae3e3?nocache=1) | [🔍 Die-Calc-1 Report](https://www.virustotal.com/gui/file/edfc41966ac6d5b61501a8c3e3ed428e4ce3838e4a7f7cf48d09b8422d69d4ca/detection) | [🔍 Die-Calc-2 Report](https://www.virustotal.com/gui/file/0b9ab433705f04ebe50390f3918622128ab02a010f62fcb5dac88792add3d1bf/detection)
 <h2>📥 Uygulama İndirme Linkleri</h2>
 <p><i>Uygulamaları aşağıdaki bağlantılardan güvenle indirebilirsiniz:</i></p>
 
