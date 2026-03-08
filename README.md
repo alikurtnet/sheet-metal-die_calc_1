@@ -21,15 +21,15 @@
 
 ## 📖 Hakkında / About
 
-**[TR]** Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar **Nuitka** ile optimize edilmiş ve **Inno Setup Compiler** kullanılarak güvenli kurulum paketleri (Setup) haline getirilmiştir. Kullanıcı güvenliği ve antivirüs taramalarında tam şeffaflık sağlamak amacıyla dosyalar sıkıştırılmadan (nocompression) paketlenmiştir.
+**[TR]** Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş profesyonel araçları bir araya getirmektedir. Uygulamalar **Nuitka** ile optimize edilmiş ve **Inno Setup** ile paketlenmiştir. Antivirüs tarayıcılarının ana yürütülebilir dosyayı şeffaf bir şekilde analiz edebilmesi için **ana .exe dosyaları sıkıştırılmadan** eklenmiş; yardımcı kütüphane (.dll) dosyaları ise kurulum bütünlüğü için standart yöntemlerle paketlenmiştir.
 
-**[EN]** This suite brings together three essential professional tools developed for die engineering calculations and technical measurement training. All applications are optimized with **Nuitka** and converted into secure installation packages (Setup) using **Inno Setup Compiler**. For maximum security and antivirus transparency, all files are bundled without compression.
+**[EN]** This suite features professional tools for die engineering and technical measurement training. Applications are optimized with **Nuitka** and bundled via **Inno Setup**. To allow antivirus engines to transparently scan the core logic, **main .exe files are included without compression**, while supporting library (.dll) files are bundled using standard methods for installation integrity.
 
 ---
 
 ## 🛡️ Güvenlik Raporları / Security Reports
-> **[TR]** Tüm kurulum dosyaları VirusTotal üzerinde **FULL TEMİZ (0/72)** raporuna sahiptir.
-> **[EN]** All setup files have a **FULL CLEAN (0/72)** report on VirusTotal.
+> **[TR]** Tüm kurulum dosyaları VirusTotal üzerinde **0/72 (Full Temiz)** sonucuna sahiptir.
+> **[EN]** All setup files have a **0/72 (Full Clean)** result on VirusTotal.
 > 💡 *Not: Linkleri yeni sekmede açmak için **Ctrl + Tıklama** yapabilirsiniz.*
 
 | Uygulama / Tool | Dosya Adı / Filename | Durum / Status | Rapor / Report |
@@ -44,8 +44,8 @@
 ---
 
 ## 📥 İndirme Linkleri / Download Links
-> **[TR]** Tüm uygulamalar kurulum (Setup) dosyası formatındadır. Aşağıdaki bağlantılardan güvenle indirebilirsiniz.
-> **[EN]** All applications are provided in installation (Setup) format. Download securely from the links below.
+> **[TR]** Tüm uygulamalar kurulum (Setup) formatındadır. Resmi bağlantılardan indirebilirsiniz.
+> **[EN]** All applications are in Setup format. Download from the official links below.
 
 | Uygulama / Application | İndirme Bağlantısı / Download Link |
 | :--- | :--- |
