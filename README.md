@@ -21,50 +21,55 @@
 
 ## 📖 Hakkında / About
 
-**[TR]** Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar **Nuitka** ile optimize edilmiş ve kullanıcı güvenliği ön planda tutularak **Ali Kurt** adına dijital olarak imzalanmıştır.
+**[TR]** Bu sürüm; kalıp mühendisliği hesaplamaları ve teknik ölçüm eğitimi için geliştirilmiş üç temel profesyonel aracı bir araya getirmektedir. Tüm uygulamalar **Nuitka** ile optimize edilmiş ve **Inno Setup Compiler** kullanılarak güvenli kurulum paketleri (Setup) haline getirilmiştir. Kullanıcı güvenliği ve antivirüs taramalarında tam şeffaflık sağlamak amacıyla dosyalar sıkıştırılmadan (nocompression) paketlenmiştir.
 
-**[EN]** This suite brings together three essential professional tools developed for die engineering calculations and technical measurement training. All applications are optimized with **Nuitka** and digitally signed by **Ali Kurt** for user security and integrity.
+**[EN]** This suite brings together three essential professional tools developed for die engineering calculations and technical measurement training. All applications are optimized with **Nuitka** and converted into secure installation packages (Setup) using **Inno Setup Compiler**. For maximum security and antivirus transparency, all files are bundled without compression.
+
+---
+
+## 🛡️ Güvenlik Raporları / Security Reports
+> **[TR]** Tüm kurulum dosyaları VirusTotal üzerinde **FULL TEMİZ (0/72)** raporuna sahiptir.
+> **[EN]** All setup files have a **FULL CLEAN (0/72)** report on VirusTotal.
+
+| Uygulama / Tool | Dosya Adı / Filename | Durum / Status | Rapor / Report |
+| :--- | :--- | :--- | :--- |
+| 🚀 Kumpas & Mikrometre | `Kumpas_Mikrometre_Kur.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/a9544723e42f6611886508de5772befac02bcb24ff1a1f4704c10d128925f5f3?nocache=1" target="_blank">🔍 İncele</a> |
+| 🛠️ Kalıp Hesaplama - 1 | `Delme_Kesme_Kaliplari_1_Kur.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/be315dc4fa9a9adb4e405935872043e0be2758d583f118c64bbcd6b298ef132a?nocache=1" target="_blank">🔍 İncele</a> |
+| 🛠️ Kalıp Hesaplama - 2 | `Delme_Kesme_Kaliplari_2_Kur.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/c86dd5c79a86f75c4cb199355a4b7651181d0932e7aa3e2d7c88ce497bd8d117?nocache=1" target="_blank">🔍 İncele</a> |
+| 📏 Ölçüm Aracı (Kur) | `Caliper-Micrometer.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/01e2385cd0fe2b2356eb54eacc2f55edc5ebb2b9607e634b0c312829dec2a7e1?nocache=1" target="_blank">🔍 İncele</a> |
+| ⚙️ Kalıp Modülü - 1 (Kur) | `Sheet_Metal_Die_Calc_1.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/030e4a08528aec6bff54de415fc420545c266f76c312b582ff6db0d298a682c2?nocache=1" target="_blank">🔍 İncele</a> |
+| ⚙️ Kalıp Modülü - 2 (Kur) | `Sheet_Metal_Die_Calc_2.exe` | **0/72 Clean** | <a href="https://www.virustotal.com/gui/file/fa2dcf5af21603bc1f9b5c03899dd3c17e5e6fca4781a3fa124958cf0e48f062?nocache=1" target="_blank">🔍 İncele</a> |
 
 ---
 
 ## 📥 İndirme Linkleri / Download Links
-> *Uygulamaları aşağıdaki bağlantılardan güvenle indirebilirsiniz / Download the apps securely via the links below:*
+> **[TR]** Tüm uygulamalar kurulum (Setup) dosyası formatındadır. Aşağıdaki bağlantılardan güvenle indirebilirsiniz.
+> **[EN]** All applications are provided in installation (Setup) format. Download securely from the links below.
 
-| Program Adı / Program Name | İndirme Bağlantısı / Download Link |
+| Uygulama / Application | İndirme Bağlantısı / Download Link |
 | :--- | :--- |
-| 🚀 Sanal Kumpas ve Mikrometre | [**Caliper-Micrometer.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe) |
-| 🛠️ Sac Metal Kalıp Hesaplama - 1 | [**Sheet_Metal_Die_Calc_1.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_1.exe) |
-| 🛠️ Sac Metal Kalıp Hesaplama - 2 | [**Sheet_Metal_Die_Calc_2.exe Download**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_2.exe) |
+| **🚀 Kumpas & Mikrometre Eğitimi** | [**Kumpas_Mikrometre_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Kumpas_Mikrometre_Kur.exe) |
+| **🛠️ Delme-Kesme Kalıpları 1** | [**Delme_Kesme_Kaliplari_1_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme_Kesme_Kaliplari_1_Kur.exe) |
+| **🛠️ Delme-Kesme Kalıpları 2** | [**Delme_Kesme_Kaliplari_2_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme_Kesme_Kaliplari_2_Kur.exe) |
+| **📏 Caliper-Micrometer Setup** | [**Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe) |
+| **⚙️ Sheet Metal Die Calc 1 Setup** | [**Sheet_Metal_Die_Calc_1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_1.exe) |
+| **⚙️ Sheet Metal Die Calc 2 Setup** | [**Sheet_Metal_Die_Calc_2.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_2.exe) |
 
 ---
 
 ## 🔍 Uygulama Detayları / Tool Details
 
 ### 1. Sanal Kumpas ve Mikrometre / Virtual Caliper & Micrometer
-<ul>
-  <li><b>[TR] Hassasiyet:</b> 0.1, 0.05 ve 0.02 mm; Milimetre ve İnç sistemleri; 3 farklı mikrometre modeli.</li>
-  <li><b>[EN] Precision:</b> 0.1, 0.05, and 0.02 mm; Metric and Inch systems; 3 different micrometer models.</li>
-</ul>
+* **[TR] Hassasiyet:** 0.1, 0.05 ve 0.02 mm; Milimetre ve İnç sistemleri; 3 farklı mikrometre modeli.
+* **[EN] Precision:** 0.1, 0.05, and 0.02 mm; Metric and Inch systems; 3 different micrometer models.
 
 ### 2. Sac Metal Kalıp Araçları / Sheet Metal Die Tools
 <p align="center">
   <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Sheet_Metal_Die_Calc_1.png" width="350">
   <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Sheet_Metal_Die_Calc_2.png" width="350">
 </p>
-<ul>
-  <li><b>[TR] Matris & Kesme Analizi:</b> Kalıp ömrü, kesme kuvveti, zımba boşluğu ve malzeme verimliliği hesaplamaları.</li>
-  <li><b>[EN] Die & Cutting Analysis:</b> Tool life, cutting force, punch clearance, and material efficiency calculations.</li>
-</ul>
+* **[TR] Matris & Kesme Analizi:** Kalıp ömrü, kesme kuvveti, zımba boşluğu ve malzeme verimliliği hesaplamaları.
+* **[EN] Die & Cutting Analysis:** Tool life, cutting force, punch clearance, and material efficiency calculations.
 
 ---
-
-## 🛡️ Güvenlik ve Kurulum / Security & Installation
-* **Portable:** [TR] Kurulum gerektirmez. / [EN] No installation required.
-* **Safety:** [TR] Dosyalar dijital sertifikalıdır. / [EN] Digitally signed for security.
-
-### 🔍 VirusTotal Güvenlik Raporları / Security Reports
-<p align="center">
-  <a href="https://www.virustotal.com/gui/file/c64644034f8314bbb59047777277609edb821b784208498d0ef325fdb57ae3e3?nocache=1">[🔍 Caliper]</a> | 
-  <a href="https://www.virustotal.com/gui/file/edfc41966ac6d5b61501a8c3e3ed428e4ce3838e4a7f7cf48d09b8422d69d4ca/detection">[🔍 Die-Calc-1]</a> | 
-  <a href="https://www.virustotal.com/gui/file/0b9ab433705f04ebe50390f3918622128ab02a010f62fcb5dac88792add3d1bf/detection">[🔍 Die-Calc-2]</a>
-</p>
+<p align="center">Developed by <b>Ali Kurt - miniSoft</b> © 2026</p>
