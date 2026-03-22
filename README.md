@@ -36,7 +36,7 @@
 | :--- | :--- | :--- | :--- |
 | 🚀 Kumpas & Mikrometre | `Kumpas-Mikrometre-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/d17a4a248e6a0da79a0f7740dae9c811000986d3e69235123a918f102a7d7a45?nocache=1) |
 | 🛠️ Kalıp Hesaplama - 1 | `Delme-Kesme-Kaliplari-1-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/8e72ff8f4d7dfbbccfa2ac837cbd9c09127d37734c00aa5e3913481dd487bf36?nocache=1) |
-| 🛠️ Kalıp Hesaplama - 2 | `Delme-Kesme-Kaliplari-2-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/e8cef020f991093112fdcf11060ddaae3bbf97b0caed77383818b06fc9014060?nocache=1) |
+| 🛠️ Kalıp Hesaplama - 2 | `Delme-Kesme-Kaliplari-2-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/e8cef020f991093112fdcf11060ddaae3bbf97b0caed77383818b06fc9014060) |
 | 📏 Ölçüm Aracı (Kur) | `Caliper-Micrometer.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/01e2385cd0fe2b2356eb54eacc2f55edc5ebb2b9607e634b0c312829dec2a7e1?nocache=1) |
 | ⚙️ Kalıp Modülü - 1 (Kur) | `Sheet_Metal_Die_Calc_1.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/030e4a08528aec6bff54de415fc420545c266f76c312b582ff6db0d298a682c2?nocache=1) |
 | ⚙️ Kalıp Modülü - 2 (Kur) | `Sheet_Metal_Die_Calc_2.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/fa2dcf5af21603bc1f9b5c03899dd3c17e5e6fca4781a3fa124958cf0e48f062?nocache=1) |
