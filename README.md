@@ -50,7 +50,7 @@
 | Uygulama / Application | İndirme Bağlantısı / Download Link |
 | :--- | :--- |
 | **🚀 Kumpas & Mikrometre Eğitimi** | [**Kumpas_Mikrometre_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Kumpas_Mikrometre_Kur.exe) |
-| **🛠️ Delme-Kesme Kalıpları 1** | [**Delme_Kesme_Kaliplari_1_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme_Kesme_Kaliplari_1_Kur.exe) |
+| **🛠️ Delme-Kesme Kalıpları 1** | [**Delme_Kesme_Kaliplari_1_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme-Kesme-Kaliplari-1-Kur.exe) |
 | **🛠️ Delme-Kesme Kalıpları 2** | [**Delme_Kesme_Kaliplari_2_Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme_Kesme_Kaliplari_2_Kur.exe) |
 | **📏 Caliper-Micrometer Setup** | [**Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe) |
 | **⚙️ Sheet Metal Die Calc 1 Setup** | [**Sheet_Metal_Die_Calc_1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet_Metal_Die_Calc_1.exe) |
