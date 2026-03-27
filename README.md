@@ -34,7 +34,7 @@
 
 | Uygulama / Tool | Dosya Adı / Filename | Durum / Status | Rapor / Report |
 | :--- | :--- | :--- | :--- |
-| 🚀 Kumpas & Mikrometre | `Kumpas-Mikrometre-Egitim-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/71415c5bf25da3d53d92ee40c16526ccbed18c7f68b1f579afc7885148b0225f?nocache=1) |
+| 🚀 Kumpas & Mikrometre | `Kumpas-Mikrometre-Egitim-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/83af2471c2287f92a3c7d95a0ada43ae0cc8549ca9df6c5f0594b01c0f061658?nocache=1) |
 | 🛠️ Kalıp Hesaplama - 1 | `Delme-Kesme-Kaliplari-1-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/ebcb9851b1db5db83a2f6068e4b3d573b10b4737548d0dda30434bd1f5f887f0) |
 | 🛠️ Kalıp Hesaplama - 2 | `Delme-Kesme-Kaliplari-2-Kur.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/e8cef020f991093112fdcf11060ddaae3bbf97b0caed77383818b06fc9014060) |
 | 📏 Ölçüm Aracı (Kur) | `Caliper-Micrometer.exe` | **0/72 Clean** | [🔍 İncele](https://www.virustotal.com/gui/file/01e2385cd0fe2b2356eb54eacc2f55edc5ebb2b9607e634b0c312829dec2a7e1?nocache=1) |
