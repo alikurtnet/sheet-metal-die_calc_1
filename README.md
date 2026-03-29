@@ -43,6 +43,46 @@
 
 ---
 
+## 📘 Kullanım Kılavuzu & Ön Bilgilendirme / User Guide & Info
+
+<details>
+<summary><b>[TR] Kurulum ve Kullanım Talimatlarını Görmek İçin Tıklayın</b></summary>
+<br>
+
+### 📖 Hızlı Başlangıç Rehberi
+
+Bu paket, **Ali Kurt - miniSoft** tarafından 35 yıllık teknik eğitim birikimiyle geliştirilmiştir. 
+
+#### 1. Kurulum Hakkında Önemli Notlar
+* **SmartScreen Uyarıları:** Windows bazen "Tanınmayan Uygulama" uyarısı verebilir. Bu durumda **"Ek Bilgi"** seçeneğine tıklayıp **"Yine de Çalıştır"** diyerek kuruluma devam edebilirsiniz.
+* **Antivirüs Güvenliği:** Tüm paketler VirusTotal üzerinde kapsamlı taramalardan geçirilmiş olup **0/72 (Tam Temiz)** raporuna sahiptir.
+* **Yönetici İzni:** Kurulum dosyalarını sağ tıklayıp **"Yönetici olarak çalıştır"** demeniz önerilir.
+
+#### 2. Uygulama Modülleri
+* **Kumpas & Mikrometre:** 0.1, 0.05 ve 0.02 mm hassasiyet ayarları ile Metrik/İnç sistemleri arasında geçiş yapabilirsiniz.
+* **Kalıp Hesaplama:** Sac kalınlığı ve malzeme verileri girilerek kesme kuvveti ve zımba boşluğu hesaplanabilir.
+
+</details>
+
+<details>
+<summary><b>[EN] Click to View Installation and Usage Instructions</b></summary>
+<br>
+
+### 📖 Quick Start Guide
+
+#### 1. Installation Notes
+* **SmartScreen:** Click **"More Info"** and then **"Run Anyway"** if Windows shows a warning.
+* **Security:** All files are **0/72 Clean** on VirusTotal.
+* **Admin Rights:** It is recommended to right-click and **"Run as Administrator"**.
+
+#### 2. Modules
+* **Precision Tools:** Supports 0.1, 0.05, and 0.02 mm precision.
+* **Die Engineering:** Calculate cutting force and punch clearance based on material data.
+
+</details>
+
+---
+
 ## 📥 İndirme Linkleri / Download Links
 > **[TR]** Tüm uygulamalar kurulum (Setup) formatındadır. Resmi bağlantılardan indirebilirsiniz.
 > **[EN]** All applications are in Setup format. Download from the official links below.
