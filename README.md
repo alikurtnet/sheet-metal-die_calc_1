@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Sheet Metal & Measurement Engineering Suite v1.0.0</h1>
+<h1 align="center">🛠️ Sheet Metal & Measurement Engineering Suite v.1.0.1</h1>
 
 <p align="center">
   <img src="https://img.shields.io/github/v/release/alikurtnet/sheet-metal-die_calc_1?style=for-the-badge">
