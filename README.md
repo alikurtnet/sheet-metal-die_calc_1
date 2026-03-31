@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Kumpas_Mikrometre.png">
-    <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Kumpas_Mikrometre.png" width="650" alt="Suite Preview">
+  <a href="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/images/Kumpas_Mikrometre.png">
+    <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/images/Kumpas_Mikrometre.png" width="650" alt="Suite Preview">
   </a>
 </p>
 
@@ -106,8 +106,8 @@ Bu paket, **Ali Kurt - miniSoft** tarafından 35 yıllık teknik eğitim birikim
 
 ### 2. Sac Metal Kalıp Araçları / Sheet Metal Die Tools
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Sheet_Metal_Die_Calc_1.png" width="350">
-  <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/Sheet_Metal_Die_Calc_2.png" width="350">
+  <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/images/Sheet_Metal_Die_Calc_1.png" width="350">
+  <img src="https://raw.githubusercontent.com/alikurtnet/sheet-metal-die_calc_1/main/images/Sheet_Metal_Die_Calc_2.png" width="350">
 </p>
 * **[TR] Matris & Kesme Analizi:** Kalıp ömrü, kesme kuvveti, zımba boşluğu ve malzeme verimliliği hesaplamaları.
 * **[EN] Die & Cutting Analysis:** Tool life, cutting force, punch clearance, and material efficiency calculations.
