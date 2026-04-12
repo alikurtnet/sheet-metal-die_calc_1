@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Saç-Metal Kalıpçılığı & Sanal Kumpas-Mikrometre v1.0.0</h1>
+<h1 align="center">🛠️ Saç-Metal Kalıpçılığı & Sanal Kumpas-Mikrometre v.1.0.1</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/release-v1.0.1-blue?style=for-the-badge">
@@ -47,16 +47,16 @@
 > **[EN]** Corporate (TR) versions include institutional branding/links. Private (EN) versions are focused on GitHub integration.
 
 ### 🚀 Kumpas & Mikrometre Eğitimi
-* [**İndir (Kurumsal - TR): Kumpas-Mikrometre-Egitim-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Kumpas-Mikrometre-Egitim-Kur.exe)
-* [**Download (Private - EN): Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Caliper-Micrometer.exe)
+* [**İndir (Kurumsal - TR): Kumpas-Mikrometre-Egitim-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Kumpas-Mikrometre-Egitim-Kur.exe)
+* [**Download (Private - EN): Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe)
 
 ### 🛠️ Sac-Metal Kalıp Hesaplama Modül-1
-* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-1-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Delme-Kesme-Kaliplari-1-Kur.exe)
-* [**Download (Private - EN): Sheet-Metal-Die-Calc-1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Sheet-Metal-Die-Calc-1.exe)
+* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-1-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme-Kesme-Kaliplari-1-Kur.exe)
+* [**Download (Private - EN): Sheet-Metal-Die-Calc-1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet-Metal-Die-Calc-1.exe)
 
 ### 🛠️ Sac-Metal Kalıp Hesaplama Modül-2
-* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-2-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Delme-Kesme-Kaliplari-2-Kur.exe)
-* [**Download (Private - EN): Sheet-Metal-Die-Calc-2.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Sheet-Metal-Die-Calc-2.exe)
+* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-2-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme-Kesme-Kaliplari-2-Kur.exe)
+* [**Download (Private - EN): Sheet-Metal-Die-Calc-2.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet-Metal-Die-Calc-2.exe)
 
 ---
 
