@@ -1,4 +1,4 @@
-<h1 align="center">🛠️ Saç-Metal Kalıpçılığı & Sanal Kumpas-Mikrometre v1.0.1</h1>
+<h1 align="center">🛠️ Saç-Metal Kalıpçılığı & Sanal Kumpas-Mikrometre v1.0.0</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/release-v1.0.1-blue?style=for-the-badge">
@@ -28,14 +28,17 @@
 ---
 
 ## 🛡️ Güvenlik Raporları / Security Reports
-> **[TR]** Kurulum dosyaları VirusTotal üzerinde **Temiz (Clean)** sonucuna sahiptir. Kurumsal (TR) ve Özel (EN) sürümler aynı çekirdek yapıyı (SHA-256) kullandığı için güvenlik raporları ortaktır.
-> **[EN]** Setup files are verified **Clean** on VirusTotal. Corporate (TR) and Private (EN) editions share the same core structure (SHA-256), hence the shared security reports.
+> **[TR]** Kurulum dosyaları VirusTotal üzerinde taranmış ve güvenlik doğrulamaları yapılmıştır. Aşağıdaki tabloda her bir dosyanın özgün tarama sonuçlarına ulaşabilirsiniz.
+> **[EN]** Setup files have been scanned and verified on VirusTotal. Unique scanning reports for each file can be accessed in the table below.
 
-| Uygulama / Tool | Kurumsal Sürüm (TR) | Özel/Global Sürüm (EN) | Rapor / Report |
-| :--- | :--- | :--- | :--- |
-| 🚀 Ölçüm Eğitimi | `Kumpas-Mikrometre-Egitim-Kur.exe` | `Caliper-Micrometer.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/d257d5a3c2c5ad9a010049e15c69269152b1e84ac770ec99cbca2191f59ce29d/detection) |
-| 🛠️ Kalıp Hesaplama 1 | `Delme-Kesme-Kaliplari-1-Kur.exe` | `Sheet-Metal-Die-Calc-1.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/0d7fe8121c8b417706198241a2cfab6b3203675d2916fd4eb382f58463f061a4/detection) |
-| 🛠️ Kalıp Hesaplama 2 | `Delme-Kesme-Kaliplari-2-Kur.exe` | `Sheet-Metal-Die-Calc-2.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/bdefbcb470116b86098face82e85a6c11e1e621f7d84e6862949b889e07f93f1/detection) |
+| Uygulama / Tool | Dosya Adı / File Name | Rapor / Report |
+| :--- | :--- | :--- |
+| 🚀 Ölçüm Eğitimi (TR) | `Kumpas-Mikrometre-Egitim-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/c8c0bf9244f3f4bc3e5ae700382d5140ad425cafe804928191839911e2d6e833/detection) |
+| 🚀 Measurement Training (EN) | `Caliper-Micrometer.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/dff0b83a488b81843cacfbdd8743acee693d654a3f1b991f1dc635e040e6a069/detection) |
+| 🛠️ Kalıp Hesaplama 1 (TR) | `Delme-Kesme-Kaliplari-1-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/5a4a07dcf6e70e80a50aa63e988230cce64f14fd836a0c35617008daf3d21d4a/detection) |
+| 🛠️ Die Calculation 1 (EN) | `Sheet-Metal-Die-Calc-1.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/a8b25a31fea32c6e66ba990afd24db331f6edd3501d9dc73854361c8ae2f87f0/detection) |
+| 🛠️ Kalıp Hesaplama 2 (TR) | `Delme-Kesme-Kaliplari-2-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/2ce86f3f4cd327831fa426970826d4c66c58b52c361f0c58b4d353df0f1586fb/detection) |
+| 🛠️ Die Calculation 2 (EN) | `Sheet-Metal-Die-Calc-2.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/73d8724d087722d66581ec3687304abe57aa71f63941ebe2f86d78821498ca72/detection) |
 
 ---
 
@@ -44,16 +47,16 @@
 > **[EN]** Corporate (TR) versions include institutional branding/links. Private (EN) versions are focused on GitHub integration.
 
 ### 🚀 Kumpas & Mikrometre Eğitimi
-* [**İndir (Kurumsal - TR): Kumpas-Mikrometre-Egitim-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Kumpas-Mikrometre-Egitim-Kur.exe)
-* [**Download (Private - EN): Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Caliper-Micrometer.exe)
+* [**İndir (Kurumsal - TR): Kumpas-Mikrometre-Egitim-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Kumpas-Mikrometre-Egitim-Kur.exe)
+* [**Download (Private - EN): Caliper-Micrometer.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Caliper-Micrometer.exe)
 
 ### 🛠️ Sac-Metal Kalıp Hesaplama Modül-1
-* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-1-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme-Kesme-Kaliplari-1-Kur.exe)
-* [**Download (Private - EN): Sheet-Metal-Die-Calc-1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet-Metal-Die-Calc-1.exe)
+* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-1-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Delme-Kesme-Kaliplari-1-Kur.exe)
+* [**Download (Private - EN): Sheet-Metal-Die-Calc-1.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Sheet-Metal-Die-Calc-1.exe)
 
 ### 🛠️ Sac-Metal Kalıp Hesaplama Modül-2
-* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-2-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Delme-Kesme-Kaliplari-2-Kur.exe)
-* [**Download (Private - EN): Sheet-Metal-Die-Calc-2.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.0/Sheet-Metal-Die-Calc-2.exe)
+* [**İndir (Kurumsal - TR): Delme-Kesme-Kaliplari-2-Kur.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Delme-Kesme-Kaliplari-2-Kur.exe)
+* [**Download (Private - EN): Sheet-Metal-Die-Calc-2.exe**](https://github.com/alikurtnet/sheet-metal-die_calc_1/releases/download/v1.0.1/Sheet-Metal-Die-Calc-2.exe)
 
 ---
 
