@@ -33,9 +33,9 @@
 
 | Uygulama / Tool | Dosya Adı / File Name | Rapor / Report |
 | :--- | :--- | :--- |
-| 🚀 Ölçüm Eğitimi (TR) | `Kumpas-Mikrometre-Egitim-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/2c714767df32f285b5631fd1971adc5e75afd4dc90aafd682985ed8a45111c93/detection) |
+| 🚀 Ölçüm Eğitimi (TR) | `Kumpas-Mikrometre-Egitim-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/9f0ec476d447e90c4f8131dd6973e92ff9bc97b2d1487c7bbf231be2dd201138/detection) |
 | 🚀 Measurement Training (EN) | `Caliper-Micrometer.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/0d11a082c4975e7fe900ea90be684921b72f989262e5060fde8753675f099264/detection) |
-| 🛠️ Kalıp Hesaplama 1 (TR) | `Delme-Kesme-Kaliplari-1-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/151eb13fec46b2196e75850c66c7c98baef539e477ab77850523707409605573/detection) |
+| 🛠️ Kalıp Hesaplama 1 (TR) | `Delme-Kesme-Kaliplari-1-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/5458c6cd1d084cbdcff314acc0f34468e14debe420e0bcc7a7029ef9ec7ac955/detection) |
 | 🛠️ Die Calculation 1 (EN) | `Sheet-Metal-Die-Calc-1.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/b1f6a3c3ffb5cdc7bb43efb9fee2467917f9578f9f89018c61aaebd9fd63ef7d/detection) |
 | 🛠️ Kalıp Hesaplama 2 (TR) | `Delme-Kesme-Kaliplari-2-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/eb1c38d206d0204097082032d7770db1a152ab61fa29f04d42033592551cd939/detection) |
 | 🛠️ Die Calculation 2 (EN) | `Sheet-Metal-Die-Calc-2.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/afe98ab0a503fdf309781425450f0ed2b31391d81206137597a62367b1d83e82/detection) |
