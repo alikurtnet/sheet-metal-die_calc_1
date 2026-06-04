@@ -27,7 +27,7 @@
 
 ---
 
-## 🛡️ Güvenlik Raporları / Security Reports
+<h2 id="guvenlik">🛡️ Güvenlik Raporları / Security Reports</h2>
 
 | Uygulama / Tool | Dosya Adı / File Name | Rapor / Report |
 | :--- | :--- | :--- |
