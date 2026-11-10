@@ -31,10 +31,10 @@
 
 | Uygulama / Tool | Dosya Adı / File Name | Rapor / Report |
 | :--- | :--- | :--- |
-| 🛠️ Kalıp Hesaplama 1 (TR) | `Delme-Kesme-Kaliplari-1-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/151eb13fec46b2196e75850c66c7c98baef539e477ab77850523707409605573/detection) |
-| 🛠️ Die Calculation 1 (EN) | `Sheet-Metal-Die-Calc-1.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/b1f6a3c3ffb5cdc7bb43efb9fee2467917f9578f9f89018c61aaebd9fd63ef7d/detection) |
-| 🛠️ Kalıp Hesaplama 2 (TR) | `Delme-Kesme-Kaliplari-2-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/eb1c38d206d0204097082032d7770db1a152ab61fa29f04d42033592551cd939/detection) |
-| 🛠️ Die Calculation 2 (EN) | `Sheet-Metal-Die-Calc-2.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/afe98ab0a503fdf309781425450f0ed2b31391d81206137597a62367b1d83e82/detection) |
+| 🛠️ Kalıp Hesaplama 1 (TR) | `Delme-Kesme-Kaliplari-1-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/ed6ffdd9c944d959b3756ac1d2a4f9c4932474b3ff38e533e64bd07b4f51361c/detection) |
+| 🛠️ Die Calculation 1 (EN) | `Sheet-Metal-Die-Calc-1.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/ed6ffdd9c944d959b3756ac1d2a4f9c4932474b3ff38e533e64bd07b4f51361c/detection) |
+| 🛠️ Kalıp Hesaplama 2 (TR) | `Delme-Kesme-Kaliplari-2-Kur.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/ce88cc8608c8f9b1a5247fca7fbc6e5c05f0448131658e49785ab2bd37e3b8ca/detection) |
+| 🛠️ Die Calculation 2 (EN) | `Sheet-Metal-Die-Calc-2.exe` | [🔍 İncele](https://www.virustotal.com/gui/file/ce88cc8608c8f9b1a5247fca7fbc6e5c05f0448131658e49785ab2bd37e3b8ca/detection) |
 
 ---
 
